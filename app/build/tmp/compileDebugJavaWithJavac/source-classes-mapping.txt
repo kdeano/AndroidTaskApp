@@ -1,0 +1,132 @@
+com/kyle/tasksapp/DaggerTasksApp_HiltComponents_SingletonC.java
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$1
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$Builder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$ServiceCImpl
+ com.kyle.tasksapp.DaggerTasksApp_HiltComponents_SingletonC$SwitchingProvider
+com/kyle/tasksapp/ui/MainActivity_GeneratedInjector.java
+ com.kyle.tasksapp.ui.MainActivity_GeneratedInjector
+com/kyle/tasksapp/ui/tasks/TasksViewModel_AssistedFactory.java
+ com.kyle.tasksapp.ui.tasks.TasksViewModel_AssistedFactory
+com/kyle/tasksapp/ui/deletecompleted/Hilt_DeleteCompletedFragment.java
+ com.kyle.tasksapp.ui.deletecompleted.Hilt_DeleteCompletedFragment
+com/kyle/tasksapp/ui/deletecompleted/DeleteCompletedViewModel_AssistedFactory_Factory.java
+ com.kyle.tasksapp.ui.deletecompleted.DeleteCompletedViewModel_AssistedFactory_Factory
+com/kyle/tasksapp/di/AppModule_ProvideApplicationScopeFactory.java
+ com.kyle.tasksapp.di.AppModule_ProvideApplicationScopeFactory
+ com.kyle.tasksapp.di.AppModule_ProvideApplicationScopeFactory$InstanceHolder
+hilt_aggregated_deps/com_kyle_tasksapp_ui_deletecompleted_DeleteCompletedFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_deletecompleted_DeleteCompletedFragment_GeneratedInjectorModuleDeps
+com/kyle/tasksapp/data/TaskDatabase_Callback_Factory.java
+ com.kyle.tasksapp.data.TaskDatabase_Callback_Factory
+com/kyle/tasksapp/data/TaskDatabase_Impl.java
+ com.kyle.tasksapp.data.TaskDatabase_Impl
+ com.kyle.tasksapp.data.TaskDatabase_Impl$1
+com/kyle/tasksapp/ui/tasks/TasksViewModel_HiltModule.java
+ com.kyle.tasksapp.ui.tasks.TasksViewModel_HiltModule
+com/kyle/tasksapp/ui/deletecompleted/DeleteCompletedViewModel_HiltModule.java
+ com.kyle.tasksapp.ui.deletecompleted.DeleteCompletedViewModel_HiltModule
+com/kyle/tasksapp/BuildConfig.java
+ com.kyle.tasksapp.BuildConfig
+com/kyle/tasksapp/ui/taskadd/TaskAddFragment_GeneratedInjector.java
+ com.kyle.tasksapp.ui.taskadd.TaskAddFragment_GeneratedInjector
+com/kyle/tasksapp/data/TaskDao_Impl.java
+ com.kyle.tasksapp.data.TaskDao_Impl
+ com.kyle.tasksapp.data.TaskDao_Impl$1
+ com.kyle.tasksapp.data.TaskDao_Impl$10
+ com.kyle.tasksapp.data.TaskDao_Impl$2
+ com.kyle.tasksapp.data.TaskDao_Impl$3
+ com.kyle.tasksapp.data.TaskDao_Impl$4
+ com.kyle.tasksapp.data.TaskDao_Impl$5
+ com.kyle.tasksapp.data.TaskDao_Impl$6
+ com.kyle.tasksapp.data.TaskDao_Impl$7
+ com.kyle.tasksapp.data.TaskDao_Impl$8
+ com.kyle.tasksapp.data.TaskDao_Impl$9
+hilt_aggregated_deps/com_kyle_tasksapp_ui_taskadd_TaskAddViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_taskadd_TaskAddViewModel_HiltModuleModuleDeps
+com/kyle/tasksapp/ui/Hilt_MainActivity.java
+ com.kyle.tasksapp.ui.Hilt_MainActivity
+com/kyle/tasksapp/TasksApp_GeneratedInjector.java
+ com.kyle.tasksapp.TasksApp_GeneratedInjector
+com/kyle/tasksapp/ui/taskadd/TaskAddViewModel_AssistedFactory_Factory.java
+ com.kyle.tasksapp.ui.taskadd.TaskAddViewModel_AssistedFactory_Factory
+com/kyle/tasksapp/ui/tasks/Hilt_TasksFragment.java
+ com.kyle.tasksapp.ui.tasks.Hilt_TasksFragment
+com/kyle/tasksapp/ui/deletecompleted/DeleteCompletedFragment_GeneratedInjector.java
+ com.kyle.tasksapp.ui.deletecompleted.DeleteCompletedFragment_GeneratedInjector
+hilt_aggregated_deps/com_kyle_tasksapp_ui_tasks_TasksViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_tasks_TasksViewModel_HiltModuleModuleDeps
+com/kyle/tasksapp/databinding/FragmentTasksBinding.java
+ com.kyle.tasksapp.databinding.FragmentTasksBinding
+com/kyle/tasksapp/ui/tasks/TasksViewModel_AssistedFactory_Factory.java
+ com.kyle.tasksapp.ui.tasks.TasksViewModel_AssistedFactory_Factory
+com/kyle/tasksapp/databinding/FragmentAddTaskBinding.java
+ com.kyle.tasksapp.databinding.FragmentAddTaskBinding
+hilt_aggregated_deps/com_kyle_tasksapp_ui_deletecompleted_DeleteCompletedViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_deletecompleted_DeleteCompletedViewModel_HiltModuleModuleDeps
+com/kyle/tasksapp/di/AppModule_ProvideTaskDaoFactory.java
+ com.kyle.tasksapp.di.AppModule_ProvideTaskDaoFactory
+hilt_aggregated_deps/com_kyle_tasksapp_ui_tasks_TasksFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_tasks_TasksFragment_GeneratedInjectorModuleDeps
+com/kyle/tasksapp/ui/tasks/TasksFragment_GeneratedInjector.java
+ com.kyle.tasksapp.ui.tasks.TasksFragment_GeneratedInjector
+com/kyle/tasksapp/ui/taskadd/Hilt_TaskAddFragment.java
+ com.kyle.tasksapp.ui.taskadd.Hilt_TaskAddFragment
+hilt_aggregated_deps/com_kyle_tasksapp_TasksApp_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_TasksApp_GeneratedInjectorModuleDeps
+com/kyle/tasksapp/databinding/ItemTaskBinding.java
+ com.kyle.tasksapp.databinding.ItemTaskBinding
+hilt_aggregated_deps/com_kyle_tasksapp_ui_taskadd_TaskAddFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_taskadd_TaskAddFragment_GeneratedInjectorModuleDeps
+com/kyle/tasksapp/TasksApp_HiltComponents.java
+ com.kyle.tasksapp.TasksApp_HiltComponents
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityCBuilderModule
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityRetainedC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityRetainedC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.kyle.tasksapp.TasksApp_HiltComponents$FragmentC
+ com.kyle.tasksapp.TasksApp_HiltComponents$FragmentC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$FragmentCBuilderModule
+ com.kyle.tasksapp.TasksApp_HiltComponents$ServiceC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ServiceC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$ServiceCBuilderModule
+ com.kyle.tasksapp.TasksApp_HiltComponents$SingletonC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewCBuilderModule
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewWithFragmentC
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewWithFragmentC$Builder
+ com.kyle.tasksapp.TasksApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/kyle/tasksapp/ui/taskadd/TaskAddViewModel_AssistedFactory.java
+ com.kyle.tasksapp.ui.taskadd.TaskAddViewModel_AssistedFactory
+com/kyle/tasksapp/di/AppModule_ProvideDatabaseFactory.java
+ com.kyle.tasksapp.di.AppModule_ProvideDatabaseFactory
+com/kyle/tasksapp/ui/taskadd/TaskAddViewModel_HiltModule.java
+ com.kyle.tasksapp.ui.taskadd.TaskAddViewModel_HiltModule
+com/kyle/tasksapp/data/PreferencesRepo_Factory.java
+ com.kyle.tasksapp.data.PreferencesRepo_Factory
+com/kyle/tasksapp/ui/deletecompleted/DeleteCompletedViewModel_AssistedFactory.java
+ com.kyle.tasksapp.ui.deletecompleted.DeleteCompletedViewModel_AssistedFactory
+com/kyle/tasksapp/databinding/ActivityMainBinding.java
+ com.kyle.tasksapp.databinding.ActivityMainBinding
+com/kyle/tasksapp/Hilt_TasksApp.java
+ com.kyle.tasksapp.Hilt_TasksApp
+ com.kyle.tasksapp.Hilt_TasksApp$1
+hilt_aggregated_deps/com_kyle_tasksapp_ui_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_ui_MainActivity_GeneratedInjectorModuleDeps
+hilt_aggregated_deps/com_kyle_tasksapp_di_AppModuleModuleDeps.java
+ hilt_aggregated_deps.com_kyle_tasksapp_di_AppModuleModuleDeps

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tasks.xml",
+        "source": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\src\\main\\res\\layout\\fragment_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_task.xml",
+        "source": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\src\\main\\res\\layout\\fragment_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_task.xml",
+        "source": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kyle\\Desktop\\task_organiser_mobile_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

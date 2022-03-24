@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.kyle.tasksapp.NavGraphDirections","com.kyle.tasksapp.ui.tasks.TasksFragmentDirections","com.kyle.tasksapp.ui.taskadd.TaskAddFragmentDirections","com.kyle.tasksapp.ui.taskadd.TaskAddFragmentArgs","com.kyle.tasksapp.ui.deletecompleted.DeleteCompletedFragmentDirections"]}]
